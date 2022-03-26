@@ -5,6 +5,6 @@
 		<AddInId>4497D11E-B8C4-4A34-801C-2B4E202ACB60</AddInId>
 		<FullClassName>Revit_API_2_1.Main</FullClassName>
 		<VendorId>ADSK</VendorId>
-		<Text>RevitAPI 2-1 вывод числа эл-тов проекта (воздуховоды)</Text>
+		<Text>RevitAPI 2-1 Вывод числа эл-тов проекта (воздуховоды)</Text>
 	</AddIn>
 </RevitAddIns>
